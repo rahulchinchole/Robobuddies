@@ -1,5 +1,6 @@
 #bck {
-  background-color: #93ffd8;
+  /* background-color: #A3E4DB; */
+  background: linear-gradient(to bottom, #7f00ff, #e100ff);
 }
 .rimg {
   height: 140px;
